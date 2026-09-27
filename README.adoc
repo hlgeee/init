@@ -5,6 +5,4 @@ This is just a simple README file for this repository.
 * SimpleChange
 +
 [source,txt]
----
 Nothing more, nothing less ;)
----
